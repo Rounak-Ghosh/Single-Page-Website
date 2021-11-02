@@ -10,6 +10,6 @@ In this course, we are going to focus on three learning objectives:
 
 Image of Final Website: 
   
-![webpage](https://github.com/Rounak-Ghosh/Single-Page-Website/blob/main/image.png?raw=true)
+![webpage](https://github.com/Rounak-Ghosh/Single-Page-Website/blob/main/images/image.png?raw=true)
 
 Course credentials - [Click here to verify](https://coursera.org/share/112348f12a78a27378714832892591e6)
