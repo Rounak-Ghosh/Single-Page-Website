@@ -12,4 +12,4 @@ Image of Final Website:
   
 ![webpage](https://github.com/Rounak-Ghosh/Single-Page-Website/blob/main/images/image.png?raw=true)
 
-Course credentials - [Click here to verify](https://coursera.org/share/112348f12a78a27378714832892591e6)
+Course credentials - [Click here to verify](https://www.coursera.org/account/accomplishments/certificate/Q6Z4M9Z5LFVB)
